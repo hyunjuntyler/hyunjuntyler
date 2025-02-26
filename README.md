@@ -8,8 +8,5 @@ iOS Developer from South Korea
 - (2021.1 ~ 2022.9) POSCO / Production technology engineer
 - (2023.3 ~ 2023.12) Apple Developer Academy @POSTECH / iOS Developer
 - (2023.9 ~ 2024.12) Outline Project
-- (2024.7 ~ ) Naver boostcamp Challenge, Membership
-
-### 🧑🏻‍💻 BOJ Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjuntyler)](https://solved.ac/hyunjuntyler/)
+- (2024.7 ~ 2024.12) Naver boostcamp Challenge, Membership
+- (2025.1 ~ 2025.2) Naver boostcamp CS/AI Refactoring
